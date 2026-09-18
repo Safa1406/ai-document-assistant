@@ -370,3 +370,10 @@ Developed by **Safa**
 Try the application here:
 
 https://safa-ai-document-assistant.streamlit.app/
+
+
+---
+
+## Application Preview
+
+![AI Document Assistant Demo](assets/app-demo.png)
